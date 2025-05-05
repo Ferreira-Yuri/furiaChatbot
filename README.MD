@@ -37,7 +37,7 @@ Crie um arquivo `.env` na raiz do projeto com o seguinte conteúdo:
 
 ```env
 token_key=SEU_TOKEN_DO_BOT
-
+```
 ---
 
 ## 🛠️ Para Rodar Localmente
